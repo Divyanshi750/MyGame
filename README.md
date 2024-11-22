@@ -1,19 +1,19 @@
-This web-based game, titled Plushie Purge, challenges the player to eliminate dolls (represented as plushies) within a specified time frame. The player must start the game, eliminate dolls, and earn points. When the timer runs out, the game ends and the final score is displayed. The player can choose to restart the game after it ends.
+This web-based game, Plushie Purge, challenges the player to eliminate plushies within a specified time frame. The player must start the game, eliminate plushies, and earn points. When the timer runs out, the game ends and the final score is displayed. The player can choose to restart the game after it ends.
 HTML STRUCTURE:
 
-<div class="game-container"> This div serves as the main container for all game elements.
+div: This div serves as the main container for all game elements.
 
-  <div class="header">: Contains the score and timer elements, updated during the game.
+  div with header class: Contains the score and timer elements, updated during the game.
 
-    <div id="score">Score: 0</div>: Displays the current score.
+  Score:  Displays the current score.
 
-<div id="timer">Time: 45</div>: Displays the countdown timer.
+Time: 45</div>: Displays the countdown timer.
 
- The title of the game displayed at the top of the game screen.
+ h1 tag: The title of the game displayed at the top of the game screen.
 
-<div id="dolls"></div>: A container where the dolls will appear (likely dynamically populated via JavaScript).
+div (id dolls): A container where the dolls will appear (likely dynamically populated via JavaScript).
 
-<div id="endGame" class="hidden">: The container that appears when the game ends, showing the final score and the restart button.
+div(id=endgame): The container that appears when the game ends, showing the final score and the restart button.
 
   Indicates the end of the game.
 
