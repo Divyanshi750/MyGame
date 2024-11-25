@@ -1,4 +1,13 @@
 This web-based game, Plushie Purge, challenges the player to eliminate plushies within a specified time frame. The player must start the game, eliminate plushies, and earn points. When the timer runs out, the game ends and the final score is displayed. The player can choose to restart the game after it ends.
+
+
+
+<img width="412" alt="image" src="https://github.com/user-attachments/assets/af952f2c-0add-43ce-b787-66840656bba4">
+
+
+<img width="436" alt="image" src="https://github.com/user-attachments/assets/6ca5a2d8-a7d0-44d7-852e-adca57e9222d">
+
+
 HTML STRUCTURE:
 
 div: This div serves as the main container for all game elements.
