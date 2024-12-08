@@ -4,7 +4,9 @@ HOW TO PLAY?
 
 https://doll-game.vercel.app/
 
-Go on the above link and click on start game. Once you have started the game, dolls will fall vertically and you have to click on them to kill them. As you click the score will increase and the timer will decrease. After 45 seconds you can check your final score and choose to restart the game again
+https://divyanshi750.github.io/MyGame/
+
+Go on one of the above links and click on start game. Once you have started the game, dolls will fall vertically and you have to click on them to kill them. As you click the score will increase and the timer will decrease. After 45 seconds you can check your final score and choose to restart the game again
 
 
 
